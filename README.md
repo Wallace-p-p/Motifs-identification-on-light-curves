@@ -1,0 +1,3 @@
+# Motifs-identification-on-light-curves
+# SUMMARY
+> Variable stars are one of the main sources of information for astronomy, the study of the variation of brightness given in light curves, among other data, can provide information about your system, how you have exoplanets. In this work, we analyzed 36 systems with exoplanets identified from observations made by the NASA Kepler space telescope. In this analysis we look for patterns in the brightness variation that are repeated in these systems, which may be related to the existence of exoplanets. The patterns sought are morphological patterns present in the light curves of each system, the data are analyzed in time series forms, using techniques to find motifs, enabling temporal analysis of the phenomenon.
